@@ -20,7 +20,6 @@ As a **Full-Stack Developer** with expertise in **Next.js**, I’ve led the deve
 I'm always looking to apply my skills to new and challenging projects that require **interactive UIs**, **data-driven applications**, and **scalable systems**.
 
 ## 📫 Let's Connect
-- [Upwork Profile](https://www.upwork.com/freelancers/~01830efb5bd9b909e6?viewMode=1)
 - 📧 enzobarros.network@gmail.com
 
 ## 📈 GitHub Stats
