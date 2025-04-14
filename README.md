@@ -21,7 +21,6 @@ I'm always looking to apply my skills to new and challenging projects that requi
 
 ## 📫 Let's Connect
 - [Upwork Profile](https://www.upwork.com/freelancers/~01830efb5bd9b909e6?viewMode=1)
-- 
 - 📧 enzobarros.network@gmail.com
 
 ## 📈 GitHub Stats
