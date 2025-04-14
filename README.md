@@ -14,11 +14,12 @@ As a **Full-Stack Developer** with expertise in **Next.js**, I’ve led the deve
 - **DevOps:** AWS, GCP
 - **Tools:** Git, Docker, Kubernetes
 
+
+
 ## 🌱 Current Focus
 I'm always looking to apply my skills to new and challenging projects that require **interactive UIs**, **data-driven applications**, and **scalable systems**.
 
 ## 📫 Let's Connect
-- [Upwork Profile](https://www.upwork.com/freelancers/~your-profile)
 - 📧 enzobarros.network@gmail.com
 
 ## 📈 GitHub Stats
