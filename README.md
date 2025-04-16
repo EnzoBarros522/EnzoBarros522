@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Enzo
+#  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="35" height="35" style="max-width:100%;">, Hi, I'm Enzo
 
 As a **Full-Stack Developer** with expertise in **Next.js**, I’ve led the development of multiple custom web applications for the **air traffic control industry**. My core focus is on building **modern, responsive**, and **high-performance user interfaces**.
 
